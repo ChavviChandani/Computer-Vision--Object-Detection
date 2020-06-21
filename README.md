@@ -14,4 +14,4 @@ Objective :
 6. Detect a Car's Plate on Images
 
 # Demo
-![](ezgif.com-video-to-gif.gif)
+![](ezgif.com-gif-maker.gif)
