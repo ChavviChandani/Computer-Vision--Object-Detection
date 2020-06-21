@@ -12,3 +12,6 @@ Objective :
 5. Detect Cars Moving on Videos
 
 6. Detect a Car's Plate on Images
+
+# Demo
+![](ezgif.com-video-to-gif.gif)
